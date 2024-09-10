@@ -34,7 +34,7 @@ window.addEventListener("load", (event) => {
         j=document.createElement("script");
         j.async= true;
         j.crossorigin= "anonymous";
-        j.src= "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2751856053825499";
+        j.src= "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3758579446337504";
         f.parentNode.insertBefore(j,f);
     }
 
